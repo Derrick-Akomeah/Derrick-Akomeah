@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi there👋, I am Derrick AKomeah Sakyi</h1>
-<h3 align="center">I a passionate developer who wants to make the world a better place with technology. I love the web. I love Javascript</h3>
+<h3 align="center">I a passionate developer who wants to make the world a better place with technology. I love the web.</h3>
 
 - 🌱 I’m currently learning **React**
 
@@ -13,6 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+ <a class="fa fa-twitter" href="https://twitter.com/DerrickAkomeah"></a>
 <a href="https://twitter.com/akudbillad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akudbillad" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dakudbilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dakudbilla" height="30" width="40" /></a>
 </p>
